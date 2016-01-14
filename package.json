@@ -1,0 +1,34 @@
+{
+	"name": "for-do",
+	"description": "for i from n down-to 1, do f(i)",
+	"version": "0.0.0",
+	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+	"contributors": [
+		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ksxnodemodules/for-do.git"
+	},
+	"engines": {
+		"node": ">=5.0.0"
+	},
+	"dependencies": {
+		"x-iterable": ">=2.1.0"
+	},
+	"main": "index.js",
+	"keywords": [
+		"loop",
+		"repeat",
+		"iterate-number"
+	],
+	"bugs": {
+		"url": "https://github.com/ksxnodemodules/for-do/issues"
+	},
+	"homepage": "https://github.com/ksxnodemodules/for-do#readme",
+	"scripts": {
+		"test": "node --es-staging ./test/index.js"
+	},
+	"tonicExampleFileName": "./test/index.js"
+}
