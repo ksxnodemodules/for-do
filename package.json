@@ -1,7 +1,7 @@
 {
 	"name": "for-do",
 	"description": "for i from n down-to 1, do f(i)",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
 	"contributors": [
 		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
